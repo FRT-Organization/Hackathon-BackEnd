@@ -1,9 +1,9 @@
 package trashman.modules.village.service;
 
-import trashman.modules.village.domain.entity.Village;
-import trashman.modules.village.domain.repo.VillageRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import trashman.modules.village.domain.entity.Village;
+import trashman.modules.village.domain.repo.VillageRepo;
 
 import java.util.List;
 
