@@ -1,0 +1,6 @@
+trashman\modules\village\controller\VillageController.class
+trashman\TrashmanApplication.class
+trashman\modules\village\domain\repo\VillageRepo.class
+trashman\modules\village\service\VillageService.class
+trashman\modules\village\domain\entity\Village.class
+trashman\modules\village\service\VillageServiceImpl.class
